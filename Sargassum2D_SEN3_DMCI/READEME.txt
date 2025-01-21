@@ -1,0 +1,9 @@
+
+Exemple d'utilisation
+
+
+python  applydMci.py  --input  ...... _21b.tif     --output result.tif   --cuda
+
+option
+ --save_bytes  pour avoir le dMCI et un masque binaire
+ --threshold 0   (uniquement avec l'option save_bytes
